@@ -1,2 +1,2 @@
 # no_tally
- Let's destroy Tally
+Project for me to learn Vue and Node. Also motivated by my intense dislike towards tally.
